@@ -1,0 +1,22 @@
+digraph {
+"Pirates' Island" ;
+"Shipwreck Bay" ;
+"Muskat Hill" ;
+"Deadman's Island" ;
+"Mutineers' Island" ;
+"Smugglers Cove" ;
+"Treasure Island" ;
+
+"Pirates' Island" -> "Shipwreck Bay";
+"Pirates' Island" -> "Muskat Hill";
+"Shipwreck Bay" -> "Muskat Hill";
+"Shipwreck Bay" -> "Deadman's Island";
+"Muskat Hill" -> "Mutineers' Island";
+"Muskat Hill" -> "Pirates' Island";
+"Deadman's Island" -> "Shipwreck Bay";
+"Deadman's Island" -> "Muskat Hill";
+"Mutineers' Island" -> "Smugglers Cove";
+"Mutineers' Island" -> "Deadman's Island";
+"Smugglers Cove" -> "Treasure Island";
+"Smugglers Cove" -> "Pirates' Island";
+}
