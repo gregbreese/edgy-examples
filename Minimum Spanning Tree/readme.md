@@ -1,4 +1,4 @@
-## Kruskal.xml
+## kruskal.xml
 
 Contains blocks for two versions of Kruskal's Algorithm for MST.
 
@@ -9,11 +9,11 @@ MST Kruskal (Advanced) uses a union-find data structure to keep track of which v
 
 
 
-## Prim.xml
+## prim.xml
 
 Contains blocks an implementation of Prim's Algorithm for MST.
 
 
-## Muddy City project.xml
+## muddy City project.xml
 
 Based on the activity at http://csunplugged.org/minimal-spanning-trees
