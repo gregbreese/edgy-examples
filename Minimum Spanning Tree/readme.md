@@ -1,6 +1,6 @@
 ## Kruskal.xml
 
-Contains two versions of Kruskal's Algorithm for MST.
+Contains blocks for two versions of Kruskal's Algorithm for MST.
 
 MST Kruskal (Basic) is a simple version of Kruskal's algorithm that relies on the 'is cyclic' block to determine whether an edge is required. This version is easier to understand but not representative of how the algorithm would actually be implemented as testing for cyclicity is O(|E|).
 
@@ -11,4 +11,9 @@ MST Kruskal (Advanced) uses a union-find data structure to keep track of which v
 
 ## Prim.xml
 
-Contains an implementation of Prim's Algorithm for MST.
+Contains blocks an implementation of Prim's Algorithm for MST.
+
+
+## Muddy City project.xml
+
+Based on the activity at http://csunplugged.org/minimal-spanning-trees
