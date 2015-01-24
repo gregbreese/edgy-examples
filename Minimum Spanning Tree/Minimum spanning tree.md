@@ -1,4 +1,4 @@
-Kruskal.xml
+## Kruskal.xml
 
 Contains two versions of Kruskal's Algorithm for MST.
 
@@ -9,6 +9,6 @@ MST Kruskal (Advanced) uses a union-find data structure to keep track of which v
 
 
 
-Prim.xml
+## Prim.xml
 
 Contains an implementation of Prim's Algorithm for MST.
